@@ -19,6 +19,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let _ = "First change"
         let _ = "Second change"
         let _ = "Third change"
+        let _ = "Fourth change"
+
 
         return true
     }
